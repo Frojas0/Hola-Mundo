@@ -2,4 +2,6 @@
 
 Mi primer repositorio.
 
-Me gusta el queso 🧀.
+me gusta el queso 🧀.
+
+completando la septima linea
