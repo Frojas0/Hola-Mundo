@@ -12,3 +12,4 @@ Modifico el archivo para actualizar cambios desde Pull Request.
 
 Agrego lineas al archivo desde GitKraken.
 
+Nuevas lineas para completar dos commitsdesde GitKraken
