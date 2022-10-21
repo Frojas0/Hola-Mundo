@@ -10,3 +10,5 @@ agrego una linea mas para completar las actividades de hoy...
 
 Modifico el archivo para actualizar cambios desde Pull Request.
 
+Agrego lineas al archivo desde GitKraken.
+
